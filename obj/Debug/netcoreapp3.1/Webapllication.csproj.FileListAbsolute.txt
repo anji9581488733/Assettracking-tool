@@ -1,0 +1,5 @@
+C:\Users\xxdayred\source\repos\Webapllication\obj\Debug\netcoreapp3.1\Webapllication.csproj.AssemblyReference.cache
+C:\Users\xxdayred\source\repos\Webapllication\obj\Debug\netcoreapp3.1\Webapllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxdayred\source\repos\Webapllication\obj\Debug\netcoreapp3.1\Webapllication.AssemblyInfoInputs.cache
+C:\Users\xxdayred\source\repos\Webapllication\obj\Debug\netcoreapp3.1\Webapllication.AssemblyInfo.cs
+C:\Users\xxdayred\source\repos\Webapllication\obj\Debug\netcoreapp3.1\Webapllication.csproj.CoreCompileInputs.cache
